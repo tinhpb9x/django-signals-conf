@@ -7,3 +7,6 @@ django_signals_conf.egg-info/SOURCES.txt
 django_signals_conf.egg-info/dependency_links.txt
 django_signals_conf.egg-info/requires.txt
 django_signals_conf.egg-info/top_level.txt
+django_signals_conf/management/__init__.py
+django_signals_conf/management/commands/__init__.py
+django_signals_conf/management/commands/createsignals.py

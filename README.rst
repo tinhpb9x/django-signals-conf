@@ -1,5 +1,7 @@
+======
 django-signals-conf
-=====
+======
+
 The library helps configure signals for django projects faster and easier
 
 Requirements
